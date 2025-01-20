@@ -1,1 +1,1 @@
-# Control-Systems-Bode-Bot-Nyquist-Plot-and-PID-Controller-
+This repository consist of Matlab code and reports for control system analysis.
